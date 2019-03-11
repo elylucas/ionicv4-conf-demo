@@ -1,0 +1,29 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-segment [(ngModel)]="segment" (ionChange)="segmentChanged($event)">
+      <ion-segment-button value="all">
+        <ion-label>All</ion-label>
+      </ion-segment-button>
+      <ion-segment-button value="favorites">
+        <ion-label>Favorites</ion-label>
+      </ion-segment-button>
+    </ion-segment>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-item-group *ngFor="let sessionGroup of sessionGroups;trackBy: trackByFnSessionGroup">
+    <ion-item-divider sticky>
+      <ion-label>{{ sessionGroup.timeStart }}</ion-label></ion-item-divider
+    >
+    <ion-item *ngFor="let session of sessionGroup.sessions;trackBy: trackByFnSession"
+      routerLink="/tabs/sessions/session/{{ session.id }}"
+    >
+      <ion-label>
+        <h2>{{ session.title }}</h2>
+        <h3>{{ session.speaker }}</h3>
+        <h3>{{ session.timeStart }} - {{ session.room }}</h3>
+      </ion-label>
+    </ion-item>
+  </ion-item-group>
+</ion-content>

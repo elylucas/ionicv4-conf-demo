@@ -1,0 +1,299 @@
+{
+  "speakers": [
+    {
+      "id": 1,
+      "name": "Rob Wormald",
+      "company": "Google",
+      "blog": "",
+      "github": "https://github.com/robwormald",
+      "twitter": "https://twitter.com/robwormald",
+      "bio": "Rob is a Developer Advocate on the Angular team at Google. He’s the Angular team’s resident reactive programming geek and founded the Reactive Extensions for Angular project, ngrx.",
+      "imgUrl": "/assets/data/images/speakers/RWormald_400x400-360x360.png"
+    },
+    {
+      "id": 2,
+      "name": "Ely Lucas",
+      "company": "Ionic",
+      "blog": "https://www.elylucas.net",
+      "github": "https://github.com/elylucas",
+      "twitter": "https://twitter.com/elylucas",
+      "bio": "Ely is a software developer based in Denver and loves all things web and mobile. By day, he works for Ionic helping developers leverage the web platform to create great mobile experiences.  By night, he is a hobbyist programmer that is always tinkering in something new. By day and night, he is a husband to his wonderful wife, and a father to his four amazing kids.",
+      "imgUrl": "/assets/data/images/speakers/ELucas_400x400-360x360.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Alyssa Nicoll",
+      "company": "",
+      "blog": "",
+      "github": "",
+      "twitter": "",
+      "bio": "I’m an Angular Developer Advocate & GDE. My two degrees (Web Design & Development and Psychology) feed my speaking career. I’ve spoken at over 20 conferences Internationally, specializing in motivational soft talks. I’m a weekly panelist on Adventures in Angular and Angular Air, which have a combined following of over 16,000 listeners. I enjoy gaming, scuba diving, and have a furry weiner dog named Beef. My DM is always open, come talk sometime.",
+      "imgUrl": "/assets/data/images/speakers/ANicholl_400x400-360x360.png"
+    },
+    {
+      "id": 4,
+      "name": "Chris Sevilleja",
+      "company": "",
+      "blog": "",
+      "github": "https://github.com/sevilayha",
+      "twitter": "https://twitter.com/chrisoncode",
+      "bio": "Chris is a full-stack developer and founder of Scotch.io, a popular webdev tutorial site. He’s a Google Developer Expert that is obsessed with performance on the client-side. When not coding, he can be found lifting heavy things.",
+      "imgUrl": "/assets/data/images/speakers/CSevilleja_400x400-360x360.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Ado Kukic",
+      "company": "Auth0",
+      "blog": "",
+      "github": "https://github.com/kukicado",
+      "twitter": "https://twitter.com/kukicado",
+      "bio": "Ado is a full-stack developer and evangelist at Auth0. Mixing his passion of programming and education, he creates tutorials, courses, and other educational content focusing on security, authentication, and more. On the front-end, he prefers Angular, while on the backend he flip-flops between Node.js and Golang",
+      "imgUrl": "/assets/data/images/speakers/AKukic_400x400-360x360.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Brian Love",
+      "company": "BrieBug",
+      "blog": "http://brianflove.com/",
+      "github": "https://github.com/blove",
+      "twitter": "https://twitter.com/brian_love",
+      "bio": "Brian Love has been building web applications for over 20 years and has long been a fanboy of JavaScript. He is focused on using the latest technologies with proven coding methodologies to create sophisticated and elegant software. He strongly believes the internet will always serve as a medium of communication, interaction and learning. Creating internet applications that enhance these goals with the adaptability for any device will succeed through providing value for businesses, organizations, and people.",
+      "imgUrl": "/assets/data/images/speakers/BLove_400x400-360x360.png"
+    },
+    {
+      "id": 7,
+      "name": "Keith Stewart",
+      "company": "Collabnet",
+      "blog": "",
+      "github": "",
+      "twitter": "https://twitter.com/TheKeithStewart",
+      "bio": "Keith Stewart is a co-organizer of ngHouston and a UI Technical Lead for DevOps with CollabNet. He has been working full time as a web developer since 2010. He is also a speaker at technical conferences and local Meetups, an open source author and contributor, and a curator for http://ngdoc.io/.twilink",
+      "imgUrl": "/assets/data/images/speakers/KStewart_400x400-360x360.png"
+    },
+    {
+      "id": 8,
+      "name": "Sam Julien",
+      "company": "",
+      "blog": "https://www.upgradingangularjs.com/",
+      "github": "https://github.com/samjulien",
+      "twitter": "http://twitter.com/samjulien",
+      "bio": "Sam Julien (“the Angular Upgrade Guy”) has been working with Angular every day since 2014. He’s poured his heart and soul into the comprehensive video course UpgradingAngularJS.com, and he shares his love of  teaching Angular as the co-organizer of Angular Portland. When he’s not coding, you’ll find Sam outside hiking or camping like a good Oregonian.",
+      "imgUrl": "/assets/data/images/speakers/SJulien_400x400-360x360.png"
+    },
+    {
+      "id": 9,
+      "name": "Sam Brennan",
+      "company": "",
+      "blog": "",
+      "github": "",
+      "twitter": "https://twitter.com/thelittlestdev",
+      "bio": "Sam is the co-founder of Code Bridge Texas, a speaker, volunteer, teacher, developer, and high school student in Houston, Texas. She enjoys running, learning, driving, and playing with her cat.",
+      "imgUrl": "/assets/data/images/speakers/SBrennan_400x400-360x360.png"
+    },
+    {
+      "id": 10,
+      "name": "Paul D. Sherrif",
+      "company": "Fairway Technologies",
+      "blog": "http://blog.fairwaytech.com/",
+      "github": "",
+      "twitter": "https://twitter.com/fairwaymm",
+      "bio": "Paul D. Sheriff is a Business Solutions Architect with Fairway Technologies, Inc. Fairway develops custom business applications specializing in web and mobile technologies. Since 2002 Fairway has successfully delivered advanced custom application software to a wide range of customers and diverse industries. With a team of dedicated experts, Fairway delivers cost-effective solutions, on-time and on-budget using innovative tools and processes to better manage today’s complex and competitive environment.",
+      "imgUrl": "/assets/data/images/speakers/PSheriff_400x400-360x360.png"
+    },
+    {
+      "id": 11,
+      "name": "Mike Ryan",
+      "company": "Synapse",
+      "blog": "",
+      "github": "https://github.com/mikeryandev",
+      "twitter": "https://twitter.com/MikeRyanDev",
+      "bio": "Mike is a software engineer at Synapse building user interfaces for industrial Internet of Things applications. He is a Google Developer Expert and a core team member of NgRx, an open source organization building high-quality reactive libraries for Angular.",
+      "imgUrl": "/assets/data/images/speakers/MRyan_400x400-360x360.png"
+    },
+    {
+      "id": 12,
+      "name": "Joe Eames",
+      "company": "",
+      "blog": "",
+      "github": "",
+      "twitter": "",
+      "bio": "Joe is a front end web developer and educator on a quest to bring software engineering practices, especially test-driven development, to the JavaScript world. He is an organizer of ng-conf, a panelist on the JavaScriptJabber, Adventures in Angular, and Views on Vue podcasts, and an author of over 20 Pluralsight.com courses (http://www.pluralsight.com/author/joe-eames). Joe has a strong interest in education, and is a frequent blogger and speaker.",
+      "imgUrl": "/assets/data/images/speakers/JEames_400x400-360x360.png"
+    },
+    {
+      "id": 13,
+      "name": "Jesse Sanders",
+      "company": "Briebug",
+      "blog": "",
+      "github": "",
+      "twitter": "https://twitter.com/JesseS_BrieBug",
+      "bio": "Jesse Sanders is the founder and CEO of BrieBug, a premier broker of technology solutions. He learned to code BASIC at 13 years old on his TRS80 Color Computer and started as a developer over 20 years ago on the Microsoft stack using VB4. He founded BrieBug in 2009 and has since built a team of talented developers dedicated to delivering cutting-edge enterprise solutions. He is an expert in JavaScript languages, including Angular and React. Jesse received his Google Developer Expert in Angular designation in 2018. When he isn’t busy running a software business, he enjoys skiing and cycling in his home state of Colorado and spending time with his three kids.",
+      "imgUrl": "/assets/data/images/speakers/JSanders_400x400-360x360.png"
+    },
+    {
+      "id": 14,
+      "name": "Bonnie Brennan",
+      "company": "",
+      "blog": "",
+      "github": "",
+      "twitter": "https://twitter.com/bonnster75",
+      "bio": "Bonnie is a JavaScript Architect specializing in Angular. She taught herself AngularJS way back in 2013, founded ngHouston in 2015 and has been involved with the Angular community since. Now she’s a Google Developer Expert, Angular Air panelist, and streams ngHouston live most Thursday nights. Her proudest achievement by far is her Child Component, Samantha.",
+      "imgUrl": "/assets/data/images/speakers/BBrennan_400x400-360x360.png"
+    },
+    {
+      "id": 15,
+      "name": "Austin McDaniel",
+      "company": "",
+      "blog": "",
+      "github": "http://github.com/amcdnl",
+      "twitter": "https://twitter.com/amcdnl",
+      "bio": "Austin McDaniel is a web and JavaScript expert with over a decade of experience. He is passionate about creating innovative software and sharing what he has learned with others. As a member of the Angular team, Austin works on the Angular Material project. He’s also the author of several popular open source libraries such as ngxs, ngx-datatable and ngx-charts. Currently, Austin consults for businesses to help their development teams harness the power of Angular and open source.",
+      "imgUrl": "/assets/data/images/speakers/AMcDaniel_400x400-360x360.png"
+    }
+  ],
+  "sessions": [
+    {
+      "id": 1,
+      "title": "Keynote #1",
+      "speaker": "Rob Wormald",
+      "speakerId": 1,
+      "abstract": "Keynote #1",
+      "timeStart": "9:10 AM",
+      "timeEnd": "10:00 AM",
+      "room": "Marco Polo",
+      "roomId": 1
+    },
+    {
+      "id": 2,
+      "title": "Presentation #1",
+      "speaker": "Brian Love",
+      "speakerId": 6,
+      "abstract": "Presentation #1",
+      "timeStart": "10:10 AM",
+      "timeEnd": "10:35 AM",
+      "room": "Marco Polo",
+      "roomId": 1
+    },
+    {
+      "id": 3,
+      "title": "Animations In An Angular World",
+      "speaker": "Alyssa Nicoll",
+      "speakerId": 3,
+      "abstract": "If we aren't doing it for the users, who are we doing it for? How often have you used something — or even more painfully, witnessed someone using something — that was poorly designed? Perhaps the creators did not fully think through their product. Perhaps they were lazy. Whatever the case, in the end, the user is the one who suffers. As we go about building killer Angular apps to take over the world, it is vital that we keep in mind our users and their end needs. In this show, Alyssa will dive into the psyche of the user, the vitality of giving feedback, and how to use Animations in Angular to provide that feedback and create a seamless flow between user and technology.",
+      "timeStart": "10:10 AM",
+      "timeEnd": "10:35 AM",
+      "room": "Four Square",
+      "roomId": 2
+    },
+    {
+      "id": 4,
+      "title": "Building Component Libraries with the Angular CDK",
+      "speaker": "Austin McDaniel",
+      "speakerId": 15,
+      "abstract": "Components libraries and frameworks like Bootstrap and Material are great ways to get your project off the ground quickly but using them can make your application look like the thousands of others using them. Sometimes you want to break out from the norm and build something unique branded for your company, when using these pre-built solutions, it can be difficult to bend them to your will so you end up creating your own component library. I’ll walk through what you need to think about before taking this on, the things often overlooked and how to build high-quality components using low-level frameworks like the Angular CDK.",
+      "timeStart": "11:00 AM",
+      "timeEnd": "11:50 AM",
+      "room": "Marco Polo",
+      "roomId": 1
+    },
+    {
+      "id": 5,
+      "title": "Thin Components with GraphQL",
+      "speaker": "Bonnie Brennan",
+      "speakerId": 14,
+      "abstract": "This talk will introduce GraphQL and briefly explain this modern alternative to REST APIs. We’ll see how you can use all the awesome modern features (like RxJS!) even if you’re still dependent on an older database.",
+      "timeStart": "11:00 AM",
+      "timeEnd": "11:50 AM",
+      "room": "Four Square",
+      "roomId": 2
+    },
+    {
+      "id": 6,
+      "title": "Mobile App Dev with Angular + Ionic",
+      "speaker": "Ely Lucas",
+      "speakerId": 2,
+      "abstract": "Use your existing web dev skills to build mobile apps for iOS, Android, and even progressive web apps with Angular and Ionic! Ionic is a free, open source framework that leverages web technologies to build cross-platform apps on a single codebase. Ionic v4 is the latest version of Ionic, focused on web standards and the latest features in Angular. In this talk, we will go over how to use Ionic to start building mobile apps, whats new in v4, and how it leverages the Angular ecosystem.",
+      "timeStart": "12:00 PM",
+      "timeEnd": "12:25 PM",
+      "room": "Marco Polo",
+      "roomId": 1
+    },
+    {
+      "id": 7,
+      "title": "Angular Elements",
+      "speaker": "Keith Stewart",
+      "speakerId": 7,
+      "abstract": "Angular Elements",
+      "timeStart": "12:00 PM",
+      "timeEnd": "12:25 PM",
+      "room": "Four Square",
+      "roomId": 2
+    },
+    {
+      "id": 8,
+      "title": "You Might Not Need NgRx",
+      "speaker": "Mike Ryan",
+      "speakerId": 11,
+      "abstract": "NgRx is a Redux-inspired framework for Angular applications.  It manages state and side effects, helping you build applications that are easier to test, strongly typed and more performant; however, these benefits can add complexity.  Luckily, there are a set of hard rules and principles that will guide you through these tradeoffs.",
+      "timeStart": "2:00 PM",
+      "timeEnd": "2:25 PM",
+      "room": "Marco Polo",
+      "roomId": 1
+    },
+    {
+      "id": 9,
+      "title": "When Teammates Don't Care",
+      "speaker": "Chris Sevilleja & Ado Kukic",
+      "speakerId": 4,
+      "abstract": "Can you really have too much performance? In this talk we examine common and uncommon pitfalls that Angular developers fall for everyday and ways around them. We'll analyze, debug, run performance tests, and improve the performance of a poorly written Angular application and show the difference even small optimization wins can make.",
+      "timeStart": "2:35 PM",
+      "timeEnd": "3:25 PM",
+      "room": "Marco Polo",
+      "roomId": 1
+    },
+    {
+      "id": 10,
+      "title": "Securing Your Angular Application",
+      "speaker": "Paul D. Sheriff",
+      "speakerId": 10,
+      "abstract": "Most business applications require a user to log in before they can use an application. In addition, menus and pages should only be available to certain users. This seminar shows you step-by-step how to secure menus using a security service and lock routes using an Angular Guard. You build an ASP.NET Core Web API and retrieve security data for a user. JSON Web Tokens are a simple and effective method of securing your Web API methods. You learn to integrate this tool into your Core Web API project and secure your methods",
+      "timeStart": "9:10 AM",
+      "timeEnd": "10:00 AM",
+      "room": "Four Square",
+      "roomId": 2
+    },
+    {
+      "id": 11,
+      "title": "Plan It Of The Apps (A Structure For Preparing Your Ngupgrade)",
+      "speaker": "Sam Julien",
+      "speakerId": 8,
+      "abstract": "There are tons of resources out there on *how* to upgrade from AngularJS to Angular, but no one ever talks about how to approach such a monumental task - and if you even should. How do you figure out where to start, which path to take, and whether it's even worth it for you or your company to spend the time and money? Should you do a top-down, bottom-up, upgrade shell - or just rage-flip your desk over and rewrite everything in Perl? Should you rewrite your architecture first, or your build process? And how do you show the business side of things that spending hundreds of hours on technical debt is actually worth it - even if you're not adding any functionality?   In this talk, you will learn the WHY and the HOW of each building block of the upgrade process for your application. I find that when teaching (rather than simply presenting information), if you can convey the thought process behind WHY you did something the way you did, as well as the payoff for making that decision, you get a greater understanding, acceptance and application of the student learning.This is the meta-level talk I wish I had seen a couple of years ago: a toolbox I could use to identify the gaps in our app's architecture and tooling, but also how to balance it against our budget and time constraints. Instead, I just had to throw stuff at the wall and see if it stuck - and try not to get fired along the way. The talk will include a game plan cheat sheet you can work through on your own and show your boss or your teammates.",
+      "timeStart": "3:35 PM",
+      "timeEnd": "4:00 PM",
+      "room": "Marco Polo",
+      "roomId": 1
+    },
+    {
+      "id": 12,
+      "title": "Reusable Animations",
+      "speaker": "Sam Brennan",
+      "speakerId": 9,
+      "abstract": "",
+      "timeStart": "3:35 PM",
+      "timeEnd": "4:00 PM",
+      "room": "Four Square",
+      "roomId": 2
+    }
+  ],
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Marco Polo"
+    },
+    {
+      "id": 2,
+      "name": "Four Square"
+    }
+  ],
+  "sponsors": []
+}

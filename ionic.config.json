@@ -1,5 +1,7 @@
 {
   "name": "confapp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

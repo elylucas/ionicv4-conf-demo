@@ -1,0 +1,24 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Speakers</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-list>
+    <ion-card *ngFor="let speaker of (speakers | async)">
+      <ion-item lines="none">
+        <ion-avatar slot="start">
+          <img src="{{ speaker.imgUrl }}" />
+        </ion-avatar>
+
+        <ion-label>
+          <p>{{ speaker.name }}</p>
+        </ion-label>
+      </ion-item>
+      <ion-card-content>
+        <p>{{ speaker.bio }}</p>
+      </ion-card-content>
+    </ion-card>
+  </ion-list>
+</ion-content>
